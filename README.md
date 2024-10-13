@@ -13,7 +13,7 @@ zql transpile "YOUR QUERY HERE"
 gleam run -m gleescript # compile the binary
 
 gleam build # compile to JS and erlang
-node ./src/test.mjs # run in JS runtime
+node ./test/test.mjs # run in JS runtime
 ```
 
 ```sh
