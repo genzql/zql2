@@ -5,7 +5,7 @@
 
 ```
 
-alternatively, import the transpiler into your project (see [README](test/test.mjs))
+alternatively, import the transpiler into your project (see [test.mjs](test/test.mjs))
 
 ## Development
 
