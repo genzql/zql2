@@ -1,8 +1,5 @@
 # zql
 
-[![Package Version](https://img.shields.io/hexpm/v/zql)](https://hex.pm/packages/zql)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/zql/)
-
 ```sh
 zql transpile "YOUR QUERY HERE"
 ```
