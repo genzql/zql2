@@ -3,8 +3,8 @@ import gleam/io
 
 pub fn main() {
   case argv.load().arguments {
-    ["transpile", _] -> io.println(transpile("test"))
-    _ -> io.println("Usage: zql run <command>")
+    ["transpile", query] -> io.println(transpile(query))
+    _ -> io.println("Usage: zql transpile <command>")
   }
 }
 
