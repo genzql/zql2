@@ -1,8 +1,11 @@
 # zql
 
 ```sh
-zql transpile "YOUR QUERY HERE"
+./zql transpile "YOUR QUERY HERE"
+
 ```
+
+alternatively, import the transpiler into your project (see [README](test/test.mjs))
 
 ## Development
 
